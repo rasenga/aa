@@ -1,0 +1,6 @@
+model_checkpoint_path: "CNN_Checkpoint-99.ckpt-99"
+all_model_checkpoint_paths: "CNN_Checkpoint-95.ckpt-95"
+all_model_checkpoint_paths: "CNN_Checkpoint-96.ckpt-96"
+all_model_checkpoint_paths: "CNN_Checkpoint-97.ckpt-97"
+all_model_checkpoint_paths: "CNN_Checkpoint-98.ckpt-98"
+all_model_checkpoint_paths: "CNN_Checkpoint-99.ckpt-99"
